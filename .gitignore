@@ -1,7 +1,10 @@
 data/Raw/
 data/Processed/
-models/*.pt
-models/*.pkl
+models/
+*.pt
+*.pkl
+*.gz
+*.parquet
 __pycache__/
 .vscode/
 *.pyc
