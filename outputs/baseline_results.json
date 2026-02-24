@@ -1,0 +1,7 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "micro_f1": 0.5335,
+    "macro_f1": 0.4083,
+    "micro_precision": 0.7816,
+    "micro_recall": 0.405
+}

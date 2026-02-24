@@ -1,0 +1,9 @@
+{
+    "model": "ClinicalBERT Fine-tuned",
+    "best_val_micro_f1": 0.4779,
+    "epochs": 3,
+    "batch_size": 16,
+    "max_length": 512,
+    "learning_rate": 2e-05,
+    "note": "512 token truncation limits performance on long discharge summaries"
+}
